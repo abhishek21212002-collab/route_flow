@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#10251f" />
+  <circle cx="256" cy="256" r="200" fill="#16382e" stroke="#255444" stroke-width="8" />
+  <!-- Highway Route Path -->
+  <path d="M140 370 C 180 260, 210 210, 256 210 C 310 210, 330 260, 372 160" fill="none" stroke="#c5f36b" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Waypoints -->
+  <circle cx="140" cy="370" r="22" fill="#c5f36b" />
+  <circle cx="256" cy="210" r="16" fill="#ffffff" />
+  <circle cx="372" cy="160" r="26" fill="#c5f36b" />
+  <circle cx="372" cy="160" r="12" fill="#10251f" />
+  <!-- Truck symbol in upper left / center -->
+  <path d="M190 280 h50 l25 25 v25 h-75 z" fill="#c5f36b" opacity="0.9"/>
+  <circle cx="205" cy="335" r="9" fill="#ffffff" />
+  <circle cx="250" cy="335" r="9" fill="#ffffff" />
+</svg>

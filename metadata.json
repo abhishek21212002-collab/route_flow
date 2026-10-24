@@ -1,0 +1,6 @@
+{
+  "name": "RouteFlow - Transport Marketplace",
+  "description": "Multi-role transport marketplace prototype connecting freight parties, brokers, execution transporters, and truck owners with freight calculation, sealed bidding, and admin operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
